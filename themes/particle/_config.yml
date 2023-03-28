@@ -2,13 +2,13 @@
 # https://github.com/argvchs/hexo-theme-particlex
 
 # Avatar image
-avatar: /images/Yuki.png
+avatar: images/Yuki.png
 
 # Home page info block
 headBlockEnable: true
 
 # Home page background image
-background: /images/wallhaven-mp6ryk.jpg
+background: images/wallhaven-mp6ryk.jpg
 
 # ParticleX theme icon is adopts the Font Awesome 6
 # https://fontawesome.com/search
