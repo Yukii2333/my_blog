@@ -118,12 +118,12 @@ giscus:
     src: https://giscus.app/client.js
     repo: Yukii2333/blog_comments
     repoID: R_kgDOJRXaSQ
-    category: [comments]
-    categoryID: [2333]
+    category: Q&A
+    categoryID: DIC_kwDOJRXaSc4CVdhq
     mapping: pathname
     strict: 0
     reactionsEnabled: 1
-    emitMetadata: 0
+    emitMetadata: 1
     inputPosition: top
     theme: preferred_color_scheme
     lang: zh-CN
