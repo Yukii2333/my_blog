@@ -44,7 +44,7 @@ menu:
 card:
     enable: true
     description: |
-        Description
+        欢迎来到Yuki的小窝
         ...
     iconLinks:
         {}
@@ -58,7 +58,7 @@ card:
 
 # Footer info
 footer:
-    since: 2022
+    since: 2023
     # Customize the server domain name ICP
     ICP:
         enable: false
@@ -92,7 +92,7 @@ crypto:
 
 # Search
 search:
-    enable: false
+    enable: true
 
 # Gitalk
 # https://github.com/gitalk/gitalk
@@ -114,19 +114,21 @@ gitalk:
 # Giscus
 # https://github.com/giscus/giscus
 giscus:
-    enable: false
+    enable: true
     src: https://giscus.app/client.js
-    repo:
-    repoID:
-    category:
-    categoryID:
+    repo: Yukii2333/blog_comments
+    repoID: R_kgDOJRXaSQ
+    category: [comments]
+    categoryID: [2333]
     mapping: pathname
     strict: 0
     reactionsEnabled: 1
     emitMetadata: 0
-    inputPosition: bottom
+    inputPosition: top
     theme: preferred_color_scheme
     lang: zh-CN
+    loading: lazy
+    crossorigin: anonymous
 
 # Waline
 # https://github.com/walinejs/waline
