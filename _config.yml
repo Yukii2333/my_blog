@@ -5,15 +5,15 @@
 # Site
 title: Yuki的小窝
 subtitle: ''
-description: ''
-keywords:
+description: 芝士Yuki
+keywords: Yuki
 author: Yuki
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.yukinohome.xyz/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -45,7 +45,7 @@ relative_link: false
 future: true
 highlight:
   enable: false
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
@@ -97,21 +97,15 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: particlex
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
 
-pandoc:
-    extra:
-        - no-highlight:
-
-archive_generator:
-    enabled: true
-    per_page: 0
-    yearly: false
-    monthly: false
-    daily: false
-
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 1000
