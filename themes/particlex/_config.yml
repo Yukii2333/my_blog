@@ -45,9 +45,11 @@ card:
     enable: true
     description: |
         欢迎来到Yuki的小窝
-        ...
     iconLinks:
-        {}
+        Github:
+            name: github
+            theme: brands
+            link: https://github.com/Yukii2333
         # <name>:
         #    name: <icon-name>
         #    theme: <icon-theme>
