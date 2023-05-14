@@ -4,7 +4,7 @@ date: 2023-04-18 14:10:45
 categories: Notes
 tags:
  - C++
-description: Notes about C++
+description: Note about C++
 cover:
 ---
 
