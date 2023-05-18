@@ -281,9 +281,9 @@ mv是move的缩写，可以用来移动文件或者将文件改名，是Linux系
 
 ![移动文件](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/20230516205409.png "移动文件")
 
-![重命名文件](C:\Users\27156\AppData\Roaming\Typora\typora-user-images\image-20230516205533408.png "重命名文件")
+<img src="https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181957339.png" alt="重命名文件" title="重命名文件" style="zoom:80%;" />
 
-![移动文件并重命名](C:\Users\27156\AppData\Roaming\Typora\typora-user-images\image-20230516210025873.png "移动文件并重命名")
+<img src="https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181957812.png" alt="移动文件并重命名" title="移动文件并重命名" style="zoom:80%;" />
 
 
 
