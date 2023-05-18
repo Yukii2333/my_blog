@@ -120,7 +120,7 @@ int main()
 //通常情况下我们显示定义的构造函数都喜欢写成全缺省函数
 ~~~
 
-![运行结果](http://ethna5.xghost7.top/images/2023/05/02/168300034664508c1a14e30.png "运行结果")
+![运行结果](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181939216.png"运行结果")
 
 * 如果类中没有显示定义构造函数，则C++编译器会自动生成一个无参的默认构造函数，一旦用户显示定义编译器将不再生成
 
@@ -161,7 +161,7 @@ int main()
 
 
 
-![自动生成](http://ethna5.xghost7.top/images/2023/05/02/168300061864508d2ae1452.png "自动生成")
+![自动生成](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181940600.png "自动生成")
 
 *虽然自动生成的构造函数有点坑，但是在类中大多数类型是自定义类型的情况下，可以给内置类型在类声名时给一个默认值*
 
@@ -343,7 +343,7 @@ private:
 };
 ~~~
 
-![结果](http://ethna5.xghost7.top/images/2023/05/02/16830067386450a51232477.png "结果")
+![结果](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181940519.png "结果")
 
 **注意**：
 
