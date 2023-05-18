@@ -120,7 +120,7 @@ int main()
 //通常情况下我们显示定义的构造函数都喜欢写成全缺省函数
 ~~~
 
-![运行结果](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181939216.png"运行结果")
+![运行结果](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181939216.png "运行结果")
 
 * 如果类中没有显示定义构造函数，则C++编译器会自动生成一个无参的默认构造函数，一旦用户显示定义编译器将不再生成
 
@@ -457,7 +457,7 @@ int main()
 
 *《C++prime》第五版也提到了*
 
-![p500](http://ethna5.xghost7.top/images/2023/05/02/16830086156450ac6728216.png "p500")
+![p500](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181945819.png "p500")
 
 **用户未显示定义时，编译器也会自动生成一个默认的赋值运算符重载，以值的方式逐字节拷贝**。内置类型成员变量是直接赋值的，而自定义成员变量需要调用对应类的赋值运算符重载完成赋值
 
