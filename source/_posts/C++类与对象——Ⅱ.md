@@ -120,6 +120,8 @@ int main()
 //通常情况下我们显示定义的构造函数都喜欢写成全缺省函数
 ~~~
 
+
+
 ![运行结果](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181939216.png "运行结果")
 
 * 如果类中没有显示定义构造函数，则C++编译器会自动生成一个无参的默认构造函数，一旦用户显示定义编译器将不再生成
@@ -343,6 +345,8 @@ private:
 };
 ~~~
 
+
+
 ![结果](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181940519.png "结果")
 
 **注意**：
@@ -456,6 +460,8 @@ int main()
 *原因：赋值运算符如果不显示定义，编译器就会生成一个默认的。此时用户再在类外自己实现一个全局的赋值运算符重载，就和编译器在类中自动生成的冲突了，因而**赋值运算符重载只能是类的成员函数***
 
 *《C++prime》第五版也提到了*
+
+
 
 ![p500](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181945819.png "p500")
 
