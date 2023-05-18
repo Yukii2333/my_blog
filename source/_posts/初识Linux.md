@@ -151,7 +151,7 @@ cd -				进入最近访问的目录
 
 ![效果图1](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/20230516095138.png "效果图1")
 
-![效果图2](C:\Users\27156\AppData\Roaming\Typora\typora-user-images\image-20230516095355825.png "效果图2")
+<img src="https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305181954013.png" alt="效果图2" title="效果图2" style="zoom:80%;" />
 
 关于tree指令，需要进行安装，在root账户下（或者root权限下）执行
 
