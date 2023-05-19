@@ -1,7 +1,7 @@
 ---
 title: C++类与对象——Ⅲ
 date: 2023-05-12 20:42:18
-categories: Notes
+categories: C++
 tags: 
  - C++
  - Class

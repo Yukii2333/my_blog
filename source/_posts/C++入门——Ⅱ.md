@@ -1,7 +1,7 @@
 ---
 title: C++入门——Ⅱ
 date: 2023-04-18 14:10:45
-categories: Notes
+categories: C++
 tags:
  - C++
 description: Note about C++

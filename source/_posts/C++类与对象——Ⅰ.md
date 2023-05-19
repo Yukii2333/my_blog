@@ -1,7 +1,7 @@
 ---
 title: C++类与对象——Ⅰ
 date: 2023-04-22 19:18:34
-categories: Notes
+categories: C++
 tags:
  - C++
  - Class
@@ -140,7 +140,7 @@ int main()
 
 3. 再点击下面的**优化**，将内联函数扩展更改为**只适用于 _inline (/Ob1)**
 
-![操作3](C:\Users\27156\AppData\Roaming\Typora\typora-user-images\image-20230422201432459.png "操作3")
+<img src="https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202305182000019.png" alt="操作3" title="操作3" style="zoom:80%;" />
 
 **反汇编码**
 
