@@ -1,5 +1,5 @@
 ---
-title: 内存管理
+title: C++内存管理
 date: 2023-05-18 20:13:13
 categories: C++
 tags: 
