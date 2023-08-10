@@ -37,7 +37,7 @@ Alexander Stepanov、Meng Lee 在惠普实验室完成的原始版本，本着�
 
 ## STL六大组件
 
-![六大组件](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202308101716084.png"六大组件")
+![六大组件](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202308101716084.png "六大组件")
 
 ## STL的重要性
 
