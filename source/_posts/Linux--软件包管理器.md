@@ -41,7 +41,7 @@ ping www.baidu.com
 
 ![直接使用](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202306021043567.png "直接使用")
 
-![grep筛选](C:\Users\27156\AppData\Roaming\Typora\typora-user-images\image-20230602104522258.png "grep筛选")
+![grep筛选](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202308121812590.png "grep筛选")
 
 #### 信息内容
 
@@ -238,7 +238,7 @@ gcc -S xxx.i -o xxx.s
 
 `-S`后跟源文件名，表示仅对预处理后的文件进行编译
 
-![编译](C:\Users\27156\AppData\Roaming\Typora\typora-user-images\image-20230604104157027.png "编译")
+![编译](https://raw.githubusercontent.com/Yukii2333/Images/main/blog_image/202308121817599.png "编译")
 
 
 
