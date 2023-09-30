@@ -5,7 +5,7 @@ categories: C++
 tags: 
  - C++
  - STL
- - inheritance
+ - Inheritance
 description:
 cover:
 ---
